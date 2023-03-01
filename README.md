@@ -51,13 +51,13 @@ The codes are tested under window10.
 
 ## Folder descriptions:
 
-01Data_PreProcess: This is used to extract the data in CSI format from the original WiFi and convert it into PNG format in order to make better use of the data.
+*01Data_PreProcess*: This is used to extract the data in CSI format from the original WiFi and convert it into PNG format in order to make better use of the data.
 
 
-02DataGenerator: This is used to generate augmented samples based on the source data  through the augmentation method proposed in this paper.
+*02DataGenerator*: This is used to generate augmented samples based on the source data  through the augmentation method proposed in this paper.
 
 
-03ActivityRecognition: Based on the self-supervised learning framework: SimCLR, DDPM-based time series-specific augmentation method and the adaptive weight algorithm are added to significantly improve the performance of activity recognition.
+*03ActivityRecognition*: Based on the self-supervised learning framework: SimCLR, DDPM-based time series-specific augmentation method and the adaptive weight algorithm are added to significantly improve the performance of activity recognition.
 
 
 ## Motivation for CLAR
