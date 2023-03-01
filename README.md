@@ -51,7 +51,7 @@ The codes are tested under window10.
 
 ## Folder descriptions:
 
-*01Data_PreProcess*: This is used to extract the data in CSI format from the original WiFi and convert it into PNG format in order to make better use of the data.
+*01DataProcessing*: This is used to extract the data in CSI format from the original WiFi and convert it into PNG format in order to make better use of the data.
 
 
 *02DataGenerator*: This is used to generate augmented samples based on the source data  through the augmentation method proposed in this paper.
