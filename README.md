@@ -12,7 +12,7 @@ CLAR use a diffusion model-based Contrastive self-supervised Learning framework 
 ## Dataset
 
 
-The two public datasets used in the paper are shown below.\
+The two public datasets used in the paper are shown below.
 
 
 ### DeepSeg Dataset
@@ -21,10 +21,12 @@ The two public datasets used in the paper are shown below.\
 The data that we extract from raw CSI data for our experiments can be downloaded from Baidu Netdisk or Google Drive:
 
 
-Data of CSI amplitudes: Data_CsiAmplitudeCut Baidu Netdisk: https://pan.baidu.com/s/12DwlT58PzlVAyBc-lYx1lw (Password: k8yp) or Google Drive: https://drive.google.com/drive/folders/1PLzV6ZWAauMQLf08NUkd5UeKrqyGMHgv
+Data of CSI amplitudes: Data_CsiAmplitudeCut Baidu Netdisk: https://pan.baidu.com/s/12DwlT58PzlVAyBc-lYx1lw (Password: k8yp) 
+or Google Drive: https://drive.google.com/drive/folders/1PLzV6ZWAauMQLf08NUkd5UeKrqyGMHgv
 
 
-Manually marked Labels for CSI amplitude data: Label_CsiAmplitudeCut Baidu: https://pan.baidu.com/s/1nY5Og4NlLb7VH5oBQ-LH9w (Password: xnra) or Google: https://drive.google.com/drive/folders/1855zX-93QjmAt2wSeJk0rTJRiPaFMGBd (1 boxing; 2 hand swing; 3 picking up; 4 hand raising; 5 running; 6 pushing; 7 squatting; 8 drawing O; 9 walking; 10 drawing X)
+Manually marked Labels for CSI amplitude data: Label_CsiAmplitudeCut Baidu: https://pan.baidu.com/s/1nY5Og4NlLb7VH5oBQ-LH9w (Password: xnra) 
+or Google: https://drive.google.com/drive/folders/1855zX-93QjmAt2wSeJk0rTJRiPaFMGBd (1 boxing; 2 hand swing; 3 picking up; 4 hand raising; 5 running; 6 pushing; 7 squatting; 8 drawing O; 9 walking; 10 drawing X)
 
 
 
