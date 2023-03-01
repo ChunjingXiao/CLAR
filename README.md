@@ -6,7 +6,7 @@ The code runs on Python 3.
 Install the dependencies and prepare the datasets with the following commands:
 
 
-CLAR use a diffusion model-based Contrastive self-supervised Learning framework for Activity Recognition using WiFi CSI.
+CLAR use a diffusion model-based Contrastive self-supervised Learning framework for activity recognition using WiFi CSI.
 
 
 ## Dataset
