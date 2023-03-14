@@ -1,4 +1,4 @@
-# WiFi CSI-based activity recognition using Contrastive Self-Supervised Learning
+# WiFi CSI-based activity recognition using Contrastive Learning
 
 
 This is the PyTorch source code for the WiFi CSI-based activity recognition. 
