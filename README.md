@@ -55,7 +55,7 @@ The codes are tested under window10.
 *02DataGenerator*: This is used to generate augmented samples based on the source data.
 
 
-*03ActivityRecognition*: This is used to conduct activity recognition.
+*03ActivityRecognition*: This is used to conduct activity recognition. 
 
 
 
